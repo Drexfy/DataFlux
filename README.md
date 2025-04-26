@@ -94,13 +94,13 @@ Hugo Caumo: Developer specializing in blockchain, smart contracts, and backend i
 - **FTE:** 2
 - **Costs:** 10,000 USD
 
-| Number | Deliverable | Specification |
-| ------ | ----------- | ------------- |
-| 0a. | License | MIT |
-| 0b. | Documentation | Inline docs + Pluggy.ai integration guide |
-| 0c. | Testing | Unit & integration tests for data ingestion |
-| 0d. | Docker | Dockerfile for backend pipeline |
-| 1.  | Backend Pipeline | Integration with Pluggy.ai API, data normalization |
+| Number | Deliverable                                                                  | Specification                                      |
+| ------ | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| 0a.    | License                                                                      | MIT                                                |
+| 0b.    | Documentation                                                                | Inline docs + Pluggy.ai integration guide          |
+| 0c.    | Testing                                                                      | Unit & integration tests for data ingestion        |
+| 0d.    | Docker                                                                       | Dockerfile for backend pipeline                    |
+| 1.     | Pluggy.ai integration and backend pipeline to ingest and normalize user data | Integration with Pluggy.ai API, data normalization |
 
 ### Milestone 2 — Frontend Dashboard
 
@@ -108,11 +108,11 @@ Hugo Caumo: Developer specializing in blockchain, smart contracts, and backend i
 - **FTE:** 2
 - **Costs:** 12,000 USD
 
-| Number | Deliverable | Specification |
-| ------ | ----------- | ------------- |
-| 0a.-0d. | Standard deliverables |  |
-| 1. | React Frontend | Dashboard |
-| 2. | Supabase Backend | Auth & marketplace base logic |
+| Number  | Deliverable           | Specification                 |
+| ------- | --------------------- | ----------------------------- |
+| 0a.-0d. | Standard deliverables |                               |
+| 1.      | React Frontend        | Dashboard                     |
+| 2.      | Supabase Backend      | Auth & marketplace base logic |
 
 ### Milestone 3 — Anonymization Pipeline
 
@@ -153,10 +153,10 @@ Hugo Caumo: Developer specializing in blockchain, smart contracts, and backend i
 - **FTE:** 2
 - **Costs:** 3,000 USD
 
-| Number | Deliverable | Specification |
-| ------ | ----------- | ------------- |
-| 0a.-0d. | Standard deliverables |  |
-| 1. | Deployment | Testnet deployment & stress tests |
+| Number  | Deliverable           | Specification                     |
+| ------- | --------------------- | --------------------------------- |
+| 0a.-0d. | Standard deliverables |                                   |
+| 1.      | Deployment            | Mainnet deployment & stress tests |
 
 ### Milestone 7 — Documentation & Support
 

@@ -53,8 +53,8 @@ This infrastructure can be expanded by other developers to tokenize different da
 
 ### Legal Structure
 
-- **Registered Address:** A definir
-- **Registered Legal Entity:** A definir
+- **Registered Address:** Avenida Carlos Gomes, 700 - sala 606, 5º andar, Boa Vista - Porto Alegre RS - CEP: 90480-000
+- **Registered Legal Entity:** Drexfy Technologies
 
 ### Team's Experience
 

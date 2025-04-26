@@ -1,5 +1,3 @@
-# DataFlux
-
 
 - **Team Name:** Drexfy Labs
 
@@ -66,7 +64,7 @@ Hugo Caumo: Developer specializing in blockchain, smart contracts, and backend i
 
 ### Team Code Repos
 
-- https://github.com/Drexfy/<project>
+- https://github.com/Drexfy/DataFlux
 
 - https://github.com/hcaumo
 

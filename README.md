@@ -42,8 +42,6 @@ This infrastructure can be expanded by other developers to tokenize different da
 
 - **Team Leader:** Guilherme Palmeiro Lima
 - **CTO:** Hugo Caumo
-- Additional members: A definir
-
 
 ### Contact
 
